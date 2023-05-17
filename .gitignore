@@ -1,0 +1,11 @@
+*.vcxproj
+*.opt
+*.db
+*.opendb
+.vs/
+x86/
+x64/
+Debug/
+Release/
+[Ss][Ii]/
+
